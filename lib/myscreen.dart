@@ -15,7 +15,7 @@ class _MyScreenState extends State<MyScreen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("my app"),
+          title: const Text("Mob ai camp"),
           centerTitle: true,
         ),
         body: Column(
